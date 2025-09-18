@@ -1,0 +1,6 @@
+InvoiceNo,Quantity,UnitPrice,CustomerID,InvoiceYear,InvoiceMonth,InvoiceDay,InvoiceWeekday
+536365,6,2.55,17850.0,2010,12,1,2
+536365,6,3.39,17850.0,2010,12,1,2
+536365,8,2.75,17850.0,2010,12,1,2
+536365,6,3.39,17850.0,2010,12,1,2
+536365,6,3.39,17850.0,2010,12,1,2
